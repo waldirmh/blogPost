@@ -1,0 +1,2 @@
+# blogPost
+blogPost con platzi
