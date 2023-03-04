@@ -1,0 +1,43 @@
+body {
+  color: rgb(12, 12, 220);
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 16px;
+  margin: 0;
+  padding: 0;
+}
+#cabecera {
+  background: rgb(16, 178, 238);
+  box-shadow: 0 2px 20px 0 rgba(0, 0, 0, 0.5);
+  color: rgb(7, 39, 249);
+  font-weight: 700;
+  margin: 0;
+  padding: 0.5em;
+  font-size: 30px;
+}
+#cabecera #tagline {
+  padding: 0 0 0 1em;
+  font-weight: 400;
+  font-size: 0.8em;
+}
+#container {
+  width: 70%;
+  padding: 0;
+  text-align: left;
+  border: 1px solid #ddd;
+  margin: 0 auto;
+}
+#container h1 {
+  font-size: 20px;
+}
+#post {
+  padding: 1em;
+}
+#master {
+  width: 80%;
+  height: 80px;
+  border: 1px solid rgb(39, 5, 92);
+  padding: 20px;
+  text-align: center;
+  font-size: 70px;
+}
