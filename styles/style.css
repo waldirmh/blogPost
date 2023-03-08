@@ -48,3 +48,11 @@ body {
 .yellow > p {
   color: red;
 }
+.black {
+  background: rgb(17, 17, 12);
+  height: auto;
+  margin-bottom: 40px;
+}
+.black > p {
+  color: white;
+}
