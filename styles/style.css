@@ -41,7 +41,7 @@ body {
   text-align: center;
 }
 .yellow{ 
-  background: gray;
-  height: 70px;
+  background: rgb(226, 222, 0);
+  height: auto;
   margin-bottom: 20px;
 }
