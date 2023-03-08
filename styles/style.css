@@ -40,3 +40,8 @@ body {
   padding: 20px;
   text-align: center;
 }
+.yellow{ 
+  background: gray;
+  height: 70px;
+  margin-bottom: 20px;
+}
