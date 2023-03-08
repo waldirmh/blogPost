@@ -40,8 +40,12 @@ body {
   padding: 20px;
   text-align: center;
 }
-.yellow{ 
+.yellow {
   background: gray;
-  height: 70px;
+  height: auto;
   margin-bottom: 20px;
+  padding: 10px;
+}
+.yellow > p {
+  color: white;
 }
