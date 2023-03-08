@@ -41,11 +41,11 @@ body {
   text-align: center;
 }
 .yellow {
-  background: gray;
+  background: rgb(205, 245, 4);
   height: auto;
   margin-bottom: 20px;
   padding: 10px;
 }
 .yellow > p {
-  color: white;
+  color: rgb(8, 33, 192);
 }
