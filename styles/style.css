@@ -45,3 +45,9 @@ body {
   height: 70px;
   margin-bottom: 20px;
 }
+footer{
+  background-color: rgb(118, 243, 2);
+  height: 50px;
+padding-top: 10px;
+  text-align: center;
+}
