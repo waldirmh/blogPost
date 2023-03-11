@@ -33,6 +33,25 @@ body {
 #post {
   padding: 1em;
 }
+
+.imagens{
+  display: flex;
+ align-content: space-between;
+  width: 80%;
+  height: auto;
+  margin: 10px;
+
+}
+#car-one{
+  width: 50%;
+  height: auto;
+}
+
+#car-two{
+  width: 50%;
+  height: auto;
+  margin: 0px 0px 0px 10px ;
+}
 #master {
   width: 80%;
   height: auto;
